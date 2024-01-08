@@ -1,0 +1,12 @@
+"sciname","host","impact_type","impact_time","impact","dimension"
+"Neofusicoccum arbuti","Arbutus menzeisii","Decline, dieback","past","Decreased productivity and health in the understory of oak and oak/douglas fir woodlands","species"
+"Neofusicoccum arbuti","Arbutus menzeisii","Dieback, decline","future","Decreased productivity and health in the understory of oak and oak/douglas fir woodlands","species"
+"Dothistroma septosporum","Pinus","decline, loss of productivity","past","Particularly important in commercial systems and christmas tree farms","species"
+"Neofusicoccum arbuti","Pinus","productivity, susceptibility to other strossors","future","Particularly important in commercial systems and christmas tree farms","species"
+"Dothistroma septosporum","Pinus","productivity, susceptibility to other strossors	","future","Particularly important in commercial systems and christmas tree farms
+","species"
+"Lecanosticta acicola","Southern pines","productivity, decline, susceptibility","past","Commercial systems","species"
+"Lecanosticta acicola","Southern pines	","productivity, decline, susceptibility, range contractions/local extirpation","future","Commercial systems
+","species"
+"Pseudocercospora thujina","Port-orford cedar","Productivity, decline","past","Causes disease in plantations especially offsite plantings","species"
+"Lecanosticta acicola","Loblolly pine","Economic","future","","social"
